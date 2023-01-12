@@ -1,2 +1,2 @@
 # myRepo
-repo git learning 
+repo for git learning 
